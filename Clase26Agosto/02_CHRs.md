@@ -1,7 +1,4 @@
-¡Claro! A continuación, te presento la **traducción completa y precisa** del documento PDF titulado:  
-**"Cloud Hosted Router, CHR - RouterOS - MikroTik Documentation"**, traducido del inglés al español.
 
----
 
 # 📘 **Router en la Nube (CHR) - RouterOS - Documentación de MikroTik**
 
